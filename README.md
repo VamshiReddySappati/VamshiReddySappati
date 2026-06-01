@@ -26,7 +26,7 @@ My focus is on building secure backend services, scalable APIs, responsive user 
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/vamshi-reddy-sappati/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.vamshireddysapp.com" target="_blank">
