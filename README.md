@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vamshi Reddy Sappati
+# Hi, I'm Vamshi Reddy Sappati
 
 ### Software Developer | Java | Spring Boot | React.js | TypeScript | AWS | Azure
 
